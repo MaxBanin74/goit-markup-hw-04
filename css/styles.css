@@ -412,7 +412,7 @@ button {
 
 .footer-container {
   display: flex;
-  align-items: base-line;
+  align-items: baseline;
 }
 
 .footer-logo .logo-part {
